@@ -101,7 +101,7 @@ rfc3986-validator==0.1.1
 rpds-py==0.20.0
 safetensors==0.4.5
 scikit-learn==1.5.1
-scipy==1.14.0
+scipy==1.12.0
 seaborn==0.13.2
 Send2Trash==1.8.3
 setuptools==73.0.1
